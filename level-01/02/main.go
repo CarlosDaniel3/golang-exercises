@@ -7,6 +7,7 @@ var y string
 var z bool
 
 func main() {
+	// Valores Zero
 	fmt.Println("x = ", x) // 0
 	fmt.Println("y = ", y) // vazio
 	fmt.Println("z = ", z) // false
