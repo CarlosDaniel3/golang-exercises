@@ -17,6 +17,6 @@ func main() {
 
 	// Segunda Parte
 	y = int(x)
-	fmt.Printf("y = %v\n", y)
+	fmt.Printf("y = %d\n", y)
 	fmt.Printf("O Tipo de y é %T\n", y)
 }
